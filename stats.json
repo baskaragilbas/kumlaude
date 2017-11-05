@@ -1,0 +1,156 @@
+{
+  "assetsByChunkName": {
+    "path---genetic-algorithms-uts": [
+      "path---genetic-algorithms-uts-64739f9dfdb93b98c269.js",
+      "path---genetic-algorithms-uts-64739f9dfdb93b98c269.js.map"
+    ],
+    "path---pemrograman-1": [
+      "path---pemrograman-1-11024aca0146efd3d6ca.js",
+      "path---pemrograman-1-11024aca0146efd3d6ca.js.map"
+    ],
+    "path---fuzzy-logic": [
+      "path---fuzzy-logic-630a3eaea5157bd38d85.js",
+      "path---fuzzy-logic-630a3eaea5157bd38d85.js.map"
+    ],
+    "path---fuzzy-logic-notes": [
+      "path---fuzzy-logic-notes-821a7996f645460dfa3f.js",
+      "path---fuzzy-logic-notes-821a7996f645460dfa3f.js.map"
+    ],
+    "path---pemrograman-1-uts": [
+      "path---pemrograman-1-uts-d098bca9fb05c074fdc0.js",
+      "path---pemrograman-1-uts-d098bca9fb05c074fdc0.js.map"
+    ],
+    "path---data-mining-uas": [
+      "path---data-mining-uas-ae1b6ba56efa713261c4.js",
+      "path---data-mining-uas-ae1b6ba56efa713261c4.js.map"
+    ],
+    "path---": [
+      "path----45593d9d3e392f4cc205.js",
+      "path----45593d9d3e392f4cc205.js.map"
+    ],
+    "path---data-mining-notes": [
+      "path---data-mining-notes-d3d941d5a2aea5799527.js",
+      "path---data-mining-notes-d3d941d5a2aea5799527.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-2bd5f25d329b9104586d.js",
+      "component---src-layouts-index-jsx-2bd5f25d329b9104586d.js.map"
+    ],
+    "path---fuzzy-logic-uas": [
+      "path---fuzzy-logic-uas-e24698df4cf0e6839ff3.js",
+      "path---fuzzy-logic-uas-e24698df4cf0e6839ff3.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---misc-q-a": [
+      "path---misc-q-a-ca2e7c4054a644465f74.js",
+      "path---misc-q-a-ca2e7c4054a644465f74.js.map"
+    ],
+    "path---data-mining": [
+      "path---data-mining-201795afe9c98df44fc5.js",
+      "path---data-mining-201795afe9c98df44fc5.js.map"
+    ],
+    "path---guides": [
+      "path---guides-8c7ca48724c2ec2be757.js",
+      "path---guides-8c7ca48724c2ec2be757.js.map"
+    ],
+    "path---genetic-algorithms-uas": [
+      "path---genetic-algorithms-uas-55697cbb19c1b7603a67.js",
+      "path---genetic-algorithms-uas-55697cbb19c1b7603a67.js.map"
+    ],
+    "path---index": [
+      "path---index-ef62267d3737fcf25267.js",
+      "path---index-ef62267d3737fcf25267.js.map"
+    ],
+    "component---src-pages-about-jsx": [
+      "component---src-pages-about-jsx-4232ffb18d74e42e37af.js",
+      "component---src-pages-about-jsx-4232ffb18d74e42e37af.js.map"
+    ],
+    "path---data-mining-uts": [
+      "path---data-mining-uts-0c8fff4c5d5024dae625.js",
+      "path---data-mining-uts-0c8fff4c5d5024dae625.js.map"
+    ],
+    "path---misc": [
+      "path---misc-35f59b16528e33b43a4c.js",
+      "path---misc-35f59b16528e33b43a4c.js.map"
+    ],
+    "commons": [
+      "commons-dc235cdd1197e13f99af.js",
+      "build-js-styles.css",
+      "commons-dc235cdd1197e13f99af.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---tips-trick": [
+      "path---tips-trick-2f0ad99c30f928df9848.js",
+      "path---tips-trick-2f0ad99c30f928df9848.js.map"
+    ],
+    "path---fuzzy-logic-notes-operator-fuzzy": [
+      "path---fuzzy-logic-notes-operator-fuzzy-db59ceefeb0b5da98cf2.js",
+      "path---fuzzy-logic-notes-operator-fuzzy-db59ceefeb0b5da98cf2.js.map"
+    ],
+    "path---pemrograman-1-uas": [
+      "path---pemrograman-1-uas-19646d5d1849fb1a69ac.js",
+      "path---pemrograman-1-uas-19646d5d1849fb1a69ac.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-1db04e5021b40904aca6.js",
+      "path---offline-plugin-app-shell-fallback-1db04e5021b40904aca6.js.map"
+    ],
+    "path---machine-learning-notes-single-layer-perceptron": [
+      "path---machine-learning-notes-single-layer-perceptron-fdd0590a06716c80db80.js",
+      "path---machine-learning-notes-single-layer-perceptron-fdd0590a06716c80db80.js.map"
+    ],
+    "component---src-templates-post-jsx": [
+      "component---src-templates-post-jsx-a7c73cb576a0f0d05a40.js",
+      "component---src-templates-post-jsx-a7c73cb576a0f0d05a40.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-5ca934fe360d697f2977.js",
+      "component---src-pages-index-jsx-5ca934fe360d697f2977.js.map"
+    ],
+    "path---machine-learning-notes": [
+      "path---machine-learning-notes-44069f3f1c52486d932c.js",
+      "path---machine-learning-notes-44069f3f1c52486d932c.js.map"
+    ],
+    "path---genetic-algorithms": [
+      "path---genetic-algorithms-2757a5c9adb603bb0238.js",
+      "path---genetic-algorithms-2757a5c9adb603bb0238.js.map"
+    ],
+    "path---tugas-akhir": [
+      "path---tugas-akhir-53f613555aef0c69f8ca.js",
+      "path---tugas-akhir-53f613555aef0c69f8ca.js.map"
+    ],
+    "app": [
+      "app-cd722a749f06cce99cb7.js",
+      "build-js-styles.css",
+      "app-cd722a749f06cce99cb7.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---machine-learning": [
+      "path---machine-learning-e81ba556df1298f1687e.js",
+      "path---machine-learning-e81ba556df1298f1687e.js.map"
+    ],
+    "path---pemrograman-1-notes": [
+      "path---pemrograman-1-notes-0dc75ffa1e55a0cac371.js",
+      "path---pemrograman-1-notes-0dc75ffa1e55a0cac371.js.map"
+    ],
+    "path---machine-learning-uts": [
+      "path---machine-learning-uts-bdfdaccc4cb88c891d07.js",
+      "path---machine-learning-uts-bdfdaccc4cb88c891d07.js.map"
+    ],
+    "path---calculus-1": [
+      "path---calculus-1-2f0ddf952f3bf3edd1bc.js",
+      "path---calculus-1-2f0ddf952f3bf3edd1bc.js.map"
+    ],
+    "path---fuzzy-logic-uts": [
+      "path---fuzzy-logic-uts-6c1d7785a15639a83da6.js",
+      "path---fuzzy-logic-uts-6c1d7785a15639a83da6.js.map"
+    ],
+    "path---about": [
+      "path---about-1db04e5021b40904aca6.js",
+      "path---about-1db04e5021b40904aca6.js.map"
+    ]
+  }
+}
